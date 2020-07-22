@@ -1,0 +1,7 @@
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\AdoptAButterfly\bin\Debug\AdoptAButterfly.exe.config
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\AdoptAButterfly\bin\Debug\AdoptAButterfly.exe
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\AdoptAButterfly\bin\Debug\AdoptAButterfly.pdb
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\AdoptAButterfly\obj\Debug\AdoptAButterfly.csprojAssemblyReference.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\AdoptAButterfly\obj\Debug\AdoptAButterfly.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\AdoptAButterfly\obj\Debug\AdoptAButterfly.exe
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\AdoptAButterfly\obj\Debug\AdoptAButterfly.pdb
